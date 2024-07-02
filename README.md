@@ -1,1 +1,1 @@
-# Frontend-page-by-focusing-parallex-effect
+# Frontend-page-by-focusing-parallax-effecf property of CSS
